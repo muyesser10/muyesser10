@@ -1,6 +1,6 @@
 # Hi, I'm Müyesser Şenyüz 👋
 
-## 🚀 Microsoft Fabric | Analytics Engineer
+## 🚀Analytics Engineer |  Microsoft Fabric
 
 I design and build end-to-end analytics systems using Microsoft Fabric and Lakehouse architecture.
 
