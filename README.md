@@ -1,51 +1,47 @@
-# Hi, I'm Müyesser Şenyüz 👋
+Hi, I'm Müyesser Şenyüz 👋  
+🚀 Analytics Engineer  
 
-## 🚀Analytics Engineer |  Microsoft Fabric
+I design and build end-to-end analytics systems, focusing on reliable data pipelines, data modeling, and business-driven insights.
 
-I design and build end-to-end analytics systems using Microsoft Fabric and Lakehouse architecture.
+🔹 Building scalable ELT pipelines  
+🔹 Designing analytical data models (star schema, dimensional modeling)  
+🔹 Developing business metrics & KPIs  
+🔹 Working with modern data architectures (Lakehouse & Warehouse)  
 
-🔹 Focused on scalable data pipelines  
-🔹 Medallion Architecture (Bronze–Silver–Gold)  
-🔹 Business-driven analytics & data modeling  
+💡 I enjoy working close to the data infrastructure layer and continuously improving my data engineering skills.
+
+---
+
+🔥 Featured Project  
+📊 End-to-End Churn Analytics Platform  
+
+An end-to-end analytics solution to analyze customer behavior and support business decision-making.
+
+🏗 Architecture  
+- Medallion Design (Bronze → Gold)  
+- Layered data transformation  
+
+⚙️ Data Engineering  
+- Data ingestion & transformation (SQL, PySpark)  
+- Data cleaning & standardization  
+- Pipeline design  
+
+📊 Analytics  
+- Customer segmentation (RFM)  
+- KPI development  
+- Metrics design  
+
+📈 Visualization  
+- Interactive dashboard (Power BI)  
+- Business insights  
 
 ---
 
-## 🔥 Featured Project
+🛠 Tech Stack  
+SQL | Python | PySpark | Power BI  
+Data Modeling | ETL ELT | Lakehouse  
+Microsoft Fabric  
 
-# 📊 End-to-End Churn Analytics Platform (Microsoft Fabric)
-
-An end-to-end analytics platform built on Microsoft Fabric using Lakehouse architecture.
-
-### 🏗 Architecture
-- Medallion Design (Bronze → Silver → Gold)
-- OneLake storage structure
-
-### ⚙️ Data Engineering
-- Data ingestion & transformation with PySpark
-- Data cleaning & feature engineering
-- Structured data modeling
-
-### 📈 Analytics & Machine Learning
-- RFM customer segmentation
-- Churn prediction modeling
-- Business KPI development
-
-### 📊 Visualization
-- Interactive Power BI dashboard
-- Executive-level churn insights
----
-
-## 🛠 Tech Stack
-
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
-
----
 
 ## 📫 Connect With Me
 
