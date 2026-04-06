@@ -8,7 +8,6 @@ I design and build end-to-end analytics systems, focusing on reliable data pipel
 🔹 Developing business metrics & KPIs  
 🔹 Working with modern data architectures (Lakehouse & Warehouse)  
 
-💡 I enjoy working close to the data infrastructure layer and continuously improving my data engineering skills.
 
 ---
 
